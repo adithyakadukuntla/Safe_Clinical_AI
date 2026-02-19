@@ -9,3 +9,4 @@ analyze_*.py
 data 
 models 
 models_candidate
+__pycache__
