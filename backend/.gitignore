@@ -6,3 +6,6 @@ hp.http
 test_data.json
 test_shap.py
 analyze_*.py
+data 
+models 
+models_candidate
